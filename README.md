@@ -1,16 +1,5 @@
 # Healthcare-Management-System
 
-
-
-<!--<img src = "https://github.com/cajoshi/Healthcare-Management-System/blob/master/Images/Usecases3.jpg" alt = "Usecase Diagram">
-
-
-
-<img src = "https://github.com/cajoshi/Healthcare-Management-System/blob/master/Images/ClassDiagramDetailed.jpg" alt = "Class Diagram">
-<img src = "https://github.com/cajoshi/Healthcare-Management-System/blob/master/Images/ClassDiagramMinimal.jpg" alt = "Class Diagram">
-
-
--->
 <h1> About the Project </h1>
 <h2>Abstract</h2>
   <b>Title</b><p>Healthcare Management System</p>
